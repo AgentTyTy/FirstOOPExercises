@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestCircle",
+            "request": "launch",
+            "mainClass": "TestCircle",
+            "projectName": "Intro-Programming_34d08b50"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Robot",
+            "request": "launch",
+            "mainClass": "Robot",
+            "projectName": "Intro-Programming_34d08b50"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Intro-Programming_34d08b50"
+        }
+    ]
+}
